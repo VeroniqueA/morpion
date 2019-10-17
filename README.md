@@ -1,2 +1,3 @@
 # morpion
 # le jour ou je saurai faire ca tranquille, je serai une star ;-)
+# en attendant j'ai fait ce que j'ai pu...
